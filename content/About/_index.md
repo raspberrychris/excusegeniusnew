@@ -23,5 +23,6 @@ At Excuse Genius, we believe in the power of words and the freedom to choose. Ou
 Explore our site, discover our collections, and remember: with Excuse Genius, you're never stuck. You're simply one excuse away from taking back control of your schedule.
 
 Thank you for visiting Excuse Genius, your trusted partner in polite evasion. We can't wait to help you navigate life's unexpected turns with grace, humor, and a dash of creativity.
+
 ---
 
