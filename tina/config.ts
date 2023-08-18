@@ -38,6 +38,28 @@ export default defineConfig({
             label: "Body",
             isBody: true,
           },
+          ...templateFields(),
+        ],
+      },
+      {
+        format: "md",
+        label: "Pages",
+        name: "pages",
+        path: "content",
+        frontmatterFormat: "toml",
+        frontmatterDelimiters: "+++",
+        match: {
+          include: "*",
+        },
+        fields: [
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body of Document",
+            description: "This is the markdown body",
+            isBody: true,
+          },
+          ...templateFields(),
         ],
       },
     ],
