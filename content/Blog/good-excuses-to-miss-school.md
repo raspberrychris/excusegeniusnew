@@ -16,4 +16,3 @@ As a student, there are times when you may need to miss school. Whether it’s f
 
 6. Personal Day: If you need a day off to take care of personal matters, such as a job interview or to move, this is a valid excuse to miss school.
 
-7. Technology Issues
